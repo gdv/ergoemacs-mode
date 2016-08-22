@@ -23,7 +23,7 @@ bundles many Emacs Lisp functions that are not in GNU Emacs by default.
     (ergoemacs-mode 1)
 
 Ergoemacs-mode makes use of `make-composed-keymap` and therefore is
-only comptabile with emacs 24.1+
+only compatible with emacs 24.1+
 
 
 More information is found at http://ergoemacs.github.io
